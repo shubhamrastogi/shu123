@@ -1,12 +1,9 @@
 ---
 layout: "post"
-title: "Get Live Tests"
+title: "Generate Invite Link"
 date: 2018-03-11
 ---
 
-
-Generate Invite Link
----
                                            
 
 Description
