@@ -17,13 +17,12 @@ title: Harvester API Documentation
 email: shubham18rastogi@gmail.com
 description: 
 baseurl: "shu123" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "codeGround.in" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
+#plugins:- jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
