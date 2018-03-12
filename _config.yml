@@ -21,7 +21,7 @@ url: "codeGround.in" # the base hostname & protocol for your site, e.g. http://e
 
 # Build settings
 markdown: kramdown
-theme: slate
+theme: minima
 #plugins:- jekyll-feed
 
 # Exclude from processing.
